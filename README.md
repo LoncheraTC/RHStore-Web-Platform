@@ -8,7 +8,6 @@ A cloud-based, scalable web platform designed to support and optimize the online
 [![JasperReports](https://img.shields.io/badge/Reporting-JasperReports-red)](https://community.jaspersoft.com/)
 [![PayPal](https://img.shields.io/badge/Payments-PayPal%20Sandbox-lightgrey)](https://developer.paypal.com/)
 [![AWS](https://img.shields.io/badge/Deployed%20on-AWS-orange)](https://aws.amazon.com/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -24,3 +23,21 @@ A cloud-based, scalable web platform designed to support and optimize the online
 ```bash
 git clone https://github.com/LoncheraTC/RHStore-Web-Platform.git
 cd RHStore-Web-Platform
+
+## Features
+- 🌐 **Web platform with responsive design**, aligned with the R&H Store brand identity
+- 🛒 **Secure e-commerce experience** with PayPal Sandbox integration
+- 📦 **Complete product and order management** through an intuitive admin dashboard
+- 📊 **Real-time sales statistics** using JavaScript-based interactive graphs
+- 📧 **Automated email notifications** for password recovery and account verification
+- 📝 **Report generation with JasperReports** for sales and operational insights
+- ☁️ **Cloud deployment on AWS**, ensuring scalability and availability
+
+
+## Contributors
+- Alex Calero Revilla
+- Fabian Montenegro Rufasto
+- Mikler Junior Díaz Pérez
+
+## License
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
