@@ -23,7 +23,17 @@ A cloud-based, scalable web platform designed to support and optimize the online
 ```bash
 git clone https://github.com/LoncheraTC/RHStore-Web-Platform.git
 cd RHStore-Web-Platform
-
+```
+## Project Structure
+```bash
+  RHStore-Web-Platform/
+  ├── Backend/             # Java Spring Boot API
+  ├── Frontend/            # .NET (C#) frontend
+  ├── Reports/             # JasperReports templates
+  ├── Scripts/             # JavaScript functions
+  ├── Deployment/          # AWS deployment configs
+  └── README.md
+```
 ## Features
 - 🌐 **Web platform with responsive design**, aligned with the R&H Store brand identity
 - 🛒 **Secure e-commerce experience** with PayPal Sandbox integration
