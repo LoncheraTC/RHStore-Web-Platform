@@ -27,11 +27,11 @@ cd RHStore-Web-Platform
 ## Project Structure
 ```bash
   RHStore-Web-Platform/
-  ├── Backend/             # Java Spring Boot API
-  ├── Frontend/            # .NET (C#) frontend
-  ├── Reports/             # JasperReports templates
-  ├── Scripts/             # JavaScript functions
-  ├── Deployment/          # AWS deployment configs
+  ├── Backend/             # Java Backend      
+  |  ├── Reports/             # JasperReports templates
+  ├── Frontend/            # .NET (C#) Frontend
+  |  ├── Scripts/             # JavaScript functions
+  |  ├── Deployment/          # AWS deployment configs
   └── README.md
 ```
 ## Features
